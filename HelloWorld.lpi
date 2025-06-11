@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectOptions>
+    <Version Value="12"/>
+    <PathDelim Value="\"/>
+    <General>
+      <Flags>
+        <MainUnitHasCreateFormStatements Value="False"/>
+        <MainUnitHasTitleStatement Value="False"/>
+        <MainUnitHasScaledStatement Value="False"/>
+      </Flags>
+      <SessionStorage Value="InProjectDir"/>
+      <Title Value="HelloWorld"/>
+      <UseAppBundle Value="False"/>
+      <ResourceType Value="res"/>
+    </General>
+    <BuildModes>
+      <Item Name="Default" Default="True"/>
+    </BuildModes>
+    <PublishOptions>
+      <Version Value="2"/>
+      <UseFileFilters Value="True"/>
+    </PublishOptions>
+    <RunParams>
+      <FormatVersion Value="2"/>
+    </RunParams>
+    <Units>
+      <Unit>
+        <Filename Value="HelloWorld.lpr"/>
+        <IsPartOfProject Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="hello.helloworld.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Hello.HelloWorld"/>
+      </Unit>
+      <Unit>
+        <Filename Value="hello.helloworldfactory.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Hello.HelloWorldFactory"/>
+      </Unit>
+      <Unit>
+        <Filename Value="hello.ihelloworld.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Hello.IHelloWorld"/>
+      </Unit>
+      <Unit>
+        <Filename Value="hello.helloworldimplementation.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Hello.HelloWorldImplementation"/>
+      </Unit>
+      <Unit>
+        <Filename Value="hello.ihelloworldstring.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Hello.IHelloWorldString"/>
+      </Unit>
+      <Unit>
+        <Filename Value="hello.iprintstrategy.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Hello.IPrintStrategy"/>
+      </Unit>
+      <Unit>
+        <Filename Value="hello.istatuscode.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Hello.IStatusCode"/>
+      </Unit>
+      <Unit>
+        <Filename Value="hello.printstrategyfactory.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Hello.PrintStrategyFactory"/>
+      </Unit>
+      <Unit>
+        <Filename Value="hello.eprintstrategyerror.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Hello.EPrintStrategyError"/>
+      </Unit>
+      <Unit>
+        <Filename Value="hello.printstrategyimplementation.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Hello.PrintStrategyImplementation"/>
+      </Unit>
+      <Unit>
+        <Filename Value="hello.statuscodeimplementation.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Hello.StatusCodeImplementation"/>
+      </Unit>
+      <Unit>
+        <Filename Value="hello.helloworldstring.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Hello.HelloWorldString"/>
+      </Unit>
+      <Unit>
+        <Filename Value="hello.helloworldstringimplementation.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Hello.HelloWorldStringImplementation"/>
+      </Unit>
+      <Unit>
+        <Filename Value="hello.stringfactory.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Hello.StringFactory"/>
+      </Unit>
+    </Units>
+  </ProjectOptions>
+  <CompilerOptions>
+    <Version Value="11"/>
+    <PathDelim Value="\"/>
+    <Target>
+      <Filename Value="HelloWorld"/>
+    </Target>
+    <SearchPaths>
+      <IncludeFiles Value="$(ProjOutDir)"/>
+      <UnitOutputDirectory Value="lib\$(TargetCPU)-$(TargetOS)"/>
+    </SearchPaths>
+  </CompilerOptions>
+  <Debugging>
+    <Exceptions>
+      <Item>
+        <Name Value="EAbort"/>
+      </Item>
+      <Item>
+        <Name Value="ECodetoolError"/>
+      </Item>
+      <Item>
+        <Name Value="EFOpenError"/>
+      </Item>
+    </Exceptions>
+  </Debugging>
+</CONFIG>

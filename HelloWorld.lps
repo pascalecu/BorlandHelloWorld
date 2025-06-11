@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="HelloWorld.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <CursorPos X="17" Y="34"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="hello.helloworld.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Hello.HelloWorld"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="17"/>
+        <CursorPos X="17" Y="19"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="hello.helloworldfactory.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Hello.HelloWorldFactory"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="45"/>
+        <CursorPos X="77" Y="47"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="hello.ihelloworld.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Hello.IHelloWorld"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="14"/>
+        <TopLine Value="32"/>
+        <CursorPos X="29" Y="48"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="hello.helloworldimplementation.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Hello.HelloWorldImplementation"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="34"/>
+        <CursorPos X="77" Y="37"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="hello.ihelloworldstring.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Hello.IHelloWorldString"/>
+        <EditorIndex Value="8"/>
+        <CursorPos X="128" Y="9"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="hello.iprintstrategy.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Hello.IPrintStrategy"/>
+        <EditorIndex Value="12"/>
+        <TopLine Value="13"/>
+        <CursorPos X="17" Y="13"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="hello.istatuscode.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Hello.IStatusCode"/>
+        <EditorIndex Value="13"/>
+        <TopLine Value="2"/>
+        <CursorPos X="17" Y="16"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="hello.printstrategyfactory.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Hello.PrintStrategyFactory"/>
+        <EditorIndex Value="6"/>
+        <TopLine Value="51"/>
+        <CursorPos X="27" Y="34"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="hello.eprintstrategyerror.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Hello.EPrintStrategyError"/>
+        <EditorIndex Value="7"/>
+        <CursorPos X="19" Y="13"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="hello.printstrategyimplementation.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Hello.PrintStrategyImplementation"/>
+        <EditorIndex Value="5"/>
+        <CursorPos X="88" Y="45"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="hello.statuscodeimplementation.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Hello.StatusCodeImplementation"/>
+        <EditorIndex Value="4"/>
+        <CursorPos X="52" Y="28"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="hello.helloworldstring.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Hello.HelloWorldString"/>
+        <EditorIndex Value="9"/>
+        <TopLine Value="4"/>
+        <CursorPos X="17" Y="13"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="hello.helloworldstringimplementation.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Hello.HelloWorldStringImplementation"/>
+        <EditorIndex Value="10"/>
+        <TopLine Value="4"/>
+        <CursorPos X="111" Y="11"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="hello.stringfactory.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Hello.StringFactory"/>
+        <EditorIndex Value="11"/>
+        <TopLine Value="18"/>
+        <CursorPos X="17" Y="14"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="hello.helloworldimplementation.pas"/>
+        <Caret Line="9" Column="84" TopLine="9"/>
+      </Position>
+      <Position>
+        <Filename Value="hello.printstrategyfactory.pas"/>
+        <Caret Line="11" Column="46"/>
+      </Position>
+      <Position>
+        <Filename Value="hello.helloworld.pas"/>
+        <Caret Line="15" Column="26" TopLine="3"/>
+      </Position>
+      <Position>
+        <Filename Value="hello.helloworld.pas"/>
+        <Caret Line="14" Column="28" TopLine="4"/>
+      </Position>
+      <Position>
+        <Filename Value="hello.helloworld.pas"/>
+        <Caret Line="30" Column="32" TopLine="15"/>
+      </Position>
+      <Position>
+        <Filename Value="hello.helloworldfactory.pas"/>
+        <Caret Line="23" Column="30" TopLine="2"/>
+      </Position>
+      <Position>
+        <Filename Value="hello.helloworld.pas"/>
+        <Caret Line="31" Column="45" TopLine="15"/>
+      </Position>
+      <Position>
+        <Filename Value="hello.helloworld.pas"/>
+        <Caret Line="30" Column="37" TopLine="15"/>
+      </Position>
+      <Position>
+        <Filename Value="hello.helloworld.pas"/>
+        <Caret Line="25" Column="30" TopLine="15"/>
+      </Position>
+      <Position>
+        <Filename Value="hello.helloworld.pas"/>
+        <Caret Line="31" Column="42" TopLine="15"/>
+      </Position>
+      <Position>
+        <Filename Value="hello.helloworld.pas"/>
+        <Caret Line="30" Column="53" TopLine="15"/>
+      </Position>
+      <Position>
+        <Filename Value="hello.helloworld.pas"/>
+        <Caret Line="33" Column="40" TopLine="15"/>
+      </Position>
+      <Position>
+        <Filename Value="hello.helloworld.pas"/>
+        <Caret Line="40" TopLine="16"/>
+      </Position>
+      <Position>
+        <Filename Value="hello.printstrategyimplementation.pas"/>
+        <Caret Line="48" Column="20" TopLine="34"/>
+      </Position>
+      <Position>
+        <Filename Value="HelloWorld.lpr"/>
+        <Caret Line="7" Column="44"/>
+      </Position>
+      <Position>
+        <Filename Value="hello.helloworld.pas"/>
+        <Caret Line="26" Column="40" TopLine="16"/>
+      </Position>
+      <Position>
+        <Filename Value="hello.helloworld.pas"/>
+        <Caret Line="24" Column="30" TopLine="18"/>
+      </Position>
+      <Position>
+        <Filename Value="hello.helloworldfactory.pas"/>
+        <Caret Line="47" Column="40" TopLine="35"/>
+      </Position>
+      <Position>
+        <Filename Value="hello.helloworldimplementation.pas"/>
+        <Caret Line="16" Column="43" TopLine="9"/>
+      </Position>
+      <Position>
+        <Filename Value="hello.statuscodeimplementation.pas"/>
+        <Caret Line="11" Column="67"/>
+      </Position>
+      <Position>
+        <Filename Value="hello.printstrategyimplementation.pas"/>
+        <Caret Line="9" Column="78"/>
+      </Position>
+      <Position>
+        <Filename Value="hello.printstrategyfactory.pas"/>
+        <Caret Line="57" Column="95" TopLine="49"/>
+      </Position>
+      <Position>
+        <Filename Value="hello.eprintstrategyerror.pas"/>
+        <Caret Line="13" Column="96"/>
+      </Position>
+      <Position>
+        <Filename Value="hello.ihelloworldstring.pas"/>
+        <Caret Line="12" Column="105"/>
+      </Position>
+      <Position>
+        <Filename Value="hello.helloworldstring.pas"/>
+        <Caret Line="11" Column="115"/>
+      </Position>
+      <Position>
+        <Filename Value="hello.helloworldstringimplementation.pas"/>
+        <Caret Line="17" Column="15"/>
+      </Position>
+      <Position>
+        <Filename Value="hello.stringfactory.pas"/>
+        <Caret Line="20" Column="31"/>
+      </Position>
+      <Position>
+        <Filename Value="hello.iprintstrategy.pas"/>
+        <Caret Line="11" Column="91"/>
+      </Position>
+      <Position>
+        <Filename Value="hello.istatuscode.pas"/>
+        <Caret Line="11" Column="119"/>
+      </Position>
+      <Position>
+        <Filename Value="hello.ihelloworld.pas"/>
+        <Caret Line="11" Column="93"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
